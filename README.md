@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm a Computer Engineering student passionate about technology and gaming!
+# Hi there! 👋  I'm Gonçalo Martins, a Computer Engineering student passionate about technology!
 
 🎓 **Currently studying:** 2nd year Computer Engineering at FEUP (Faculty of Engineering, University of Porto)
 
