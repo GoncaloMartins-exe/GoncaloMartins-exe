@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 
-[![Gonçalo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GoncaloMartins-exe\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/GoncaloMartins-exe/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Gonçalo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GoncaloMartins-exe\&show_icons=true\&theme=dark\&rank_icon=github#gh-dark-mode-only)](https://github.com/GoncaloMartins-exe/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMartins-exe&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
