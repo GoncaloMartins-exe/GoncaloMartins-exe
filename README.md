@@ -1,6 +1,6 @@
 # Hi there! 👋  I'm Gonçalo Martins, a Computer Engineering student passionate about technology!
 
-🎓 **Currently studying:** 2nd year Computer Engineering at FEUP (Faculty of Engineering, University of Porto)
+🎓 **Currently studying:** 3rd year Computer Engineering at FEUP (Faculty of Engineering, University of Porto)
 
 💻 **What I do:** 
 - Computer repair and maintenance 🔧
