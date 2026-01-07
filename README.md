@@ -13,23 +13,6 @@
 
 🎮 **Gaming:** FPS games enthusiast 
 
-## 📊 GitHub Stats
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoncaloMartins-exe&show_icons=true&theme=react&rank_icon=github" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMartins-exe&layout=compact&theme=react" height="180em" />
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-
 ## 📱 Connect with me
 
 <div> 
