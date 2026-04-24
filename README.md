@@ -1,6 +1,9 @@
 # Hi there, I'm Gonçalo! 👋
 
+<img width="350" align="right" alt="Logo animado" src="https://github.com/user-attachments/assets/8635af8f-99a2-4fbb-8bb0-7466598626e6" />
+
 ### 🎓 Computer Engineering Student @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
+
 
 I'm a 3rd-year student at FEUP, building real-world systems, from home lab infrastructure to desktop apps. If it runs on my hardware, I probably built it.
 
@@ -10,7 +13,7 @@ I'm a 3rd-year student at FEUP, building real-world systems, from home lab infra
 
 ### 🛠️ Tech Stack & Skills
 
-<h3 align="center">⚙️Languages & Frameworks:</h3>
+<h3 align="center">⚙️Languages & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,javascript&theme=dark&perline=7" />
