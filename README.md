@@ -1,8 +1,8 @@
 # Hi there, I'm Gonçalo! 👋
 
-<img width="350" align="right" alt="Logo animado" src="https://github.com/user-attachments/assets/8635af8f-99a2-4fbb-8bb0-7466598626e6" />
-
 ### 🎓 Computer Engineering Student @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
+
+<img width="350" align="right" alt="Logo animado" src="https://github.com/user-attachments/assets/8635af8f-99a2-4fbb-8bb0-7466598626e6" />
 
 <div>
 I'm a 3rd-year student at FEUP, building real-world systems, from home lab infrastructure to desktop apps. If it runs on my hardware, I probably built it.
