@@ -2,7 +2,9 @@
 
 ### 🎓 Computer Engineering Student @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
 
-I'm a 3rd-year student at FEUP, building real-world systems, from home lab infrastructure to desktop apps. If it runs on my hardware, I probably built it. Owning the stack beats renting it.
+I'm a 3rd-year student at FEUP, building real-world systems, from home lab infrastructure to desktop apps. If it runs on my hardware, I probably built it.
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04D9FF&width=500&lines=Owning+the+stack+beats+renting+it.)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
