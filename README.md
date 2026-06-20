@@ -14,16 +14,24 @@ I'm a 3rd-year student at FEUP, building real-world systems, from home lab infra
 
 ### 🛠️ Tech Stack & Skills
 
-<h3 align="center">⚙️Languages & Frameworks</h3>
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,javascript&theme=dark&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,dart&theme=dark&perline=7" />
 </p>
 
-<h3 align="center">💻 Hardware & Systems</h3>
+<h3 align="center">📱 Frontend & Mobile</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,raspberrypi,cmake,qt&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,qt&theme=dark&perline=6" />
+</p>
+
+<h3 align="center">⚙️ Backend & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark&perline=6" />
+</p>
+
+<h3 align="center">🖥️ Systems & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,raspberrypi,cmake&theme=dark&perline=6" />
 </p>
 
 <h3 align="center">🎨 Creative</h3>
