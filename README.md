@@ -5,7 +5,7 @@
 ### 🎓 Computer Engineering Student @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
 
 <div>
-I'm a 3rd-year student at FEUP, building real-world systems, from home lab infrastructure to desktop apps. If it runs on my hardware, I probably built it.
+Bachelor's Degree in Computer Engineering at FEUP, building real-world systems, from home lab infrastructure to desktop apps. If it runs on my hardware, I probably built it.
 <p></p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=04D9FF&width=500&lines=Owning+the+stack+beats+renting+it."/>
 </div>
@@ -14,28 +14,28 @@ I'm a 3rd-year student at FEUP, building real-world systems, from home lab infra
 
 ### 🛠️ Tech Stack & Skills
 
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
+<h3 align="left">💻 Programming Languages</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,dart&theme=dark&perline=7" />
 </p>
 
-<h3 align="center">📱 Frontend & Mobile</h3>
-<p align="center">
+<h3 align="left">📱 Frontend & Mobile</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,qt&theme=dark&perline=6" />
 </p>
 
-<h3 align="center">⚙️ Backend & Databases</h3>
-<p align="center">
+<h3 align="left">⚙️ Backend & Databases</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark&perline=6" />
 </p>
 
-<h3 align="center">🖥️ Systems & Tools</h3>
-<p align="center">
+<h3 align="left">🖥️ Systems & Tools</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=bash,raspberrypi,cmake&theme=dark&perline=6" />
 </p>
 
-<h3 align="center">🎨 Creative</h3>
-<p align="center">
+<h3 align="left">🎨 Creative</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ps,ae,pr,figma,blender&perline=5" />
 </p>
 
@@ -56,7 +56,7 @@ I'm a 3rd-year student at FEUP, building real-world systems, from home lab infra
 
 ### 📬 Connect with me
 
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/gon%C3%A7alo-m" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
     <a href="https://www.instagram.com/gm_exe" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
     <a href="https://discord.com/users/779018020617322507" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
